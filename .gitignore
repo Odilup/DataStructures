@@ -3,3 +3,8 @@
 ################################################################################
 
 /DataStructures/DataStructures/bin/Debug
+/DataStructures/DataStructures/obj/Debug
+/Tests/LinkedListsUTests/bin/Debug/netcoreapp3.1
+/Tests/LinkedListsUTests/obj/Debug/netcoreapp3.1
+/Tests/LinkedListsUTests/obj
+/DataStructures/.vs/DataStructures
